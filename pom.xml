@@ -30,7 +30,6 @@
         <module>persistence</module>
         <module>domain</module>
     </modules>
-
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
@@ -88,7 +87,6 @@
         </dependency>
         <!--Validations-->
     </dependencies>
-
     <profiles>
         <profile>
             <id>development</id>
@@ -103,7 +101,6 @@
             </properties>
         </profile>
     </profiles>
-
     <build>
         <filters>
             <filter>${filter.src}/src/filters/filter-${env}.properties</filter>

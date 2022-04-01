@@ -13,7 +13,12 @@
 	<properties>
 		<filter.src>${basedir}/..</filter.src>
 	</properties>
-
+	<repositories>
+		<repository>
+			<id>jaspersoft-third-party</id>
+			<url>https://jaspersoft.jfrog.io/jaspersoft/third-party-ce-artifacts/</url>
+		 </repository>
+	</repositories>
 	<dependencies>
 		<dependency>
 			<groupId>org.apache.xmlgraphics</groupId>

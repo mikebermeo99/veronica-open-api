@@ -13,7 +13,6 @@
     <properties>
         <filter.src>${basedir}/..</filter.src>
     </properties>
-
     <dependencies>
         <!-- Modules -->
         <dependency>
