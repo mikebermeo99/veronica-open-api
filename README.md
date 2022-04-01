@@ -121,6 +121,11 @@ http://localhost:8080/veronica/swagger-ui.html
 ### Postman
 `Veronica` también pone a disposición de los usuarios una colección de llamadas y ejemplos que se encuentra en la ruta **/src/postman/Verónica API Reference.postman_collection.json**.
 
+### Docker
+
+Inciar el docker compose, y entrar a la terminal del contenedor de postgresql, y seguir el siguiente tutorial.
+https://stackoverflow.com/questions/64210167/unable-to-connect-to-postgres-db-due-to-the-authentication-type-10-is-not-suppor
+
 ## Bitácora
 
 - V1: 2018-04-12, Primera versión.
