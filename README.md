@@ -124,8 +124,11 @@ http://localhost:8080/veronica/swagger-ui.html
 
 ## Docker
 
-Inciar el docker compose, y entrar a la terminal del contenedor de postgresql, y seguir el siguiente tutorial.
-https://stackoverflow.com/questions/64210167/unable-to-connect-to-postgres-db-due-to-the-authentication-type-10-is-not-suppor
+Inciar el docker compose, entrar a la terminal del contenedor de postgresql.
+
+1. Añadir la [clave de cifrado](#despliegue-estándar) en el contenedor de Postgresql.
+2. Seguir el tutorial del siguiente [link](
+https://stackoverflow.com/questions/64210167/unable-to-connect-to-postgres-db-due-to-the-authentication-type-10-is-not-suppor).
 
 ## Bitácora
 
