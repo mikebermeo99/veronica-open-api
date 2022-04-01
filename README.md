@@ -22,7 +22,7 @@ Contenidos
 	- [Documentación](#documentación)
 		- [Swagger](#swagger)
 		- [Postman](#postman)
-	- [Docker] (#docker)
+	- [Docker](#docker)
 	- [Bitácora](#bitácora)
 	- [Autores](#autores)
 	- [Colaboradores](#colaboradores)
