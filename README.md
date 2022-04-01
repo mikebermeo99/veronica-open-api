@@ -10,9 +10,9 @@ Todo comprobante electrónico gestionado a través de `Veronica` manejará un ci
 <img src="https://raw.githubusercontent.com/rolandopalermo/veronica/master/static/veronica_ciclo_vida.png" width="1200">
 </p>
 
-Cotenidos
+Contenidos
 =================
-- [Cotenidos](#cotenidos)
+- [Contenidos](#contenidos)
 	- [Software requerido](#software-requerido)
 	- [Pasos previos](#pasos-previos)
 	- [Instalación](#instalación)
@@ -22,6 +22,7 @@ Cotenidos
 	- [Documentación](#documentación)
 		- [Swagger](#swagger)
 		- [Postman](#postman)
+	- [Docker] (#docker)
 	- [Bitácora](#bitácora)
 	- [Autores](#autores)
 	- [Colaboradores](#colaboradores)
@@ -121,7 +122,7 @@ http://localhost:8080/veronica/swagger-ui.html
 ### Postman
 `Veronica` también pone a disposición de los usuarios una colección de llamadas y ejemplos que se encuentra en la ruta **/src/postman/Verónica API Reference.postman_collection.json**.
 
-### Docker
+## Docker
 
 Inciar el docker compose, y entrar a la terminal del contenedor de postgresql, y seguir el siguiente tutorial.
 https://stackoverflow.com/questions/64210167/unable-to-connect-to-postgres-db-due-to-the-authentication-type-10-is-not-suppor
